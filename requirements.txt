@@ -1,0 +1,10 @@
+streamlit
+yfinance
+requests
+feedparser
+PyPDF2
+transformers
+sentence-transformers
+faiss-cpu
+plotly
+pandas
